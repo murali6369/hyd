@@ -1,0 +1,45 @@
+#cont{
+    display: flex;
+    margin: 20px;
+}
+#co{
+    margin-top: 60px;
+    margin-left: 10px;
+}
+#cont>img{
+    border-radius: 20px;
+}
+#co>p{
+    text-align: left;
+}
+#cont>img:hover{
+    transition: all 2s ease-in-out;
+    width: 420px;
+    cursor: pointer;
+
+}
+.a{
+    text-decoration: none;
+}
+#bg1{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#bg2{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#bg3{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#star:hover{
+   color: white;
+   cursor: pointer;
+}
